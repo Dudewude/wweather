@@ -1,0 +1,11 @@
+[
+    {
+      "city": "Stanwood",
+      "state": "Washington",
+      "weatherwarning": "Coastal Flood Advisory",
+      "type": "1",
+      "weatherwarningtext": "Action Recommended Attend to information sources as described in the instructions Issued By Seattle/Tacoma - WA, US, National Weather Service",
+      "startdate": "2022-12-29 18:00:00 GMT-0800",
+      "enddate": "2022-12-30 11:00:00 GMT-0800"
+    }
+  ]
